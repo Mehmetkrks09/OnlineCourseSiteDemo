@@ -1,1 +1,1 @@
-Hata ve Önerilerinizi Bekliyorum Beğenirseniz Yıldız Vermeyi Unutmayınız :)
+This project is a course platform similar to Udemy 🎓, where users can browse and enroll in courses. I'm currently working on it, and I would love to hear any suggestions or feedback you might have 📝. If you spot any missing features or improvements, feel free to share! Your input would be really helpful 🙌.
